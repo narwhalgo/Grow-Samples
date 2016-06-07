@@ -1,0 +1,72 @@
+# Add the following line to your project in Framer Studio. 
+# myModule = require "myModule"
+# Reference the contents by name, like myModule.myFunction() or myModule.myVar
+
+exports.myVar = "myVariable"
+
+exports.myFunction = ->
+	print "myFunction is running"
+
+exports.myArray = [1, 2, 3]
+
+
+###### Our Circle
+#create layers
+exports.clip = new Layer
+	width: Oval.width
+	height: Oval.height
+	backgroundColor: null
+	parent: o_play
+exports.clip.x = Oval.x
+exports.clip.placeBehind(mask)
+
+exports.sClip = new Layer
+	backgroundColor: null
+	width: clip.width/2
+	height: clip.height
+	clip: true
+	
+exports.s = new Layer
+	borderRadius: 500
+	backgroundColor: null
+	size:clip.size
+	superLayer: sClip
+	rotation: 180
+exports.s.isFinished = ->
+	this.rotation == 360
+
+exports.oClip = new Layer
+	backgroundColor: null
+	width: clip.width/2
+	height: clip.height
+	x: 0
+	parent: s
+	borderColor: null
+	clip: true
+	
+exports.o = new Layer
+	borderRadius: 500
+	backgroundColor: null
+	borderWidth: 8
+	borderColor: "9013FE"
+	size:clip.size
+	parent: oClip
+	x: 0
+	y: 0
+
+sClip2 = sClip.copy()
+sClip2.x = clip.width/2
+sClip2.name = "sClip2"
+s2 = sClip2.subLayers[0]
+s2.name = "s2"
+s2.rotation = 0
+s2.x=-clip.width/2
+oClip2 = s2.subLayers[0]
+oClip2.name = "oClip2"
+o2 = oClip2.subLayers[0]
+o2.name = "o2"
+sClip.parent = clip
+sClip2.parent = clip
+sClip2.x =clip.width/2
+clip.placeBehind(bottomScroll)	
+######

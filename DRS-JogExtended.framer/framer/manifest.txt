@@ -1,0 +1,85 @@
+app.coffee
+framer/backups/backup-2016-06-02 14.05.55.coffee
+framer/backups/backup-2016-06-02 14.06.55.coffee
+framer/backups/backup-2016-06-02 14.07.56.coffee
+framer/backups/backup-2016-06-02 14.08.55.coffee
+framer/backups/backup-2016-06-02 14.11.55.coffee
+framer/backups/backup-2016-06-02 14.12.55.coffee
+framer/backups/backup-2016-06-02 14.16.55.coffee
+framer/backups/backup-2016-06-02 14.17.55.coffee
+framer/backups/backup-2016-06-02 14.18.55.coffee
+framer/backups/backup-2016-06-02 14.19.55.coffee
+framer/backups/backup-2016-06-02 14.20.55.coffee
+framer/backups/backup-2016-06-02 14.21.55.coffee
+framer/backups/backup-2016-06-02 14.29.55.coffee
+framer/backups/backup-2016-06-02 14.30.55.coffee
+framer/backups/backup-2016-06-02 14.31.55.coffee
+framer/backups/backup-2016-06-02 14.32.55.coffee
+framer/backups/backup-2016-06-02 14.33.55.coffee
+framer/backups/backup-2016-06-02 14.37.55.coffee
+framer/backups/backup-2016-06-02 14.38.55.coffee
+framer/backups/backup-2016-06-02 14.39.55.coffee
+framer/backups/backup-2016-06-02 14.40.55.coffee
+framer/coffee-script.js
+framer/config.json
+framer/framer.generated.js
+framer/framer.init.js
+framer/framer.js
+framer/framer.js.map
+framer/framer.modules.js
+framer/images/background.png
+framer/images/cursor-active.png
+framer/images/cursor-active@2x.png
+framer/images/cursor.png
+framer/images/cursor@2x.png
+framer/images/icon-120.png
+framer/images/icon-152.png
+framer/images/icon-180.png
+framer/images/icon-192.png
+framer/images/icon-76.png
+framer/images/icon-arrow.png
+framer/images/icon-arrow@2x.png
+framer/images/icon-close.png
+framer/images/icon-close@2x.png
+framer/images/icon-framer.png
+framer/images/icon-framer@2x.png
+framer/images/icon-share.png
+framer/images/icon-share@2x.png
+framer/manifest.txt
+framer/mirror.css
+framer/style.css
+framer/version
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-backShaow-mdjeouu3.png
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-Group_9-nju4nujg.png
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-pageDuration-mkjcrduz.png
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-pageHeart-mueznzu3.png
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-pageSpeed-rdm3rjm1.png
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-pageTime-ndndndbd.png
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-playScreen-qkq4rjbf.png
+imported/20160530_Jogstation_statistic_ver2@1x/images/Layer-summary-qzewrjg1.png
+imported/20160530_Jogstation_statistic_ver2@1x/layers.json
+imported/20160530_Jogstation_statistic_ver2@1x/layers.json.js
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-backShadow-mdjeouu3.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-btnNext-otzeqzhc.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-btnPrevious-odrcmde4.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-details-nju4nujg.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-finger-rdg4njyw.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-Group-qunbqjk4.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-heartDot-rjzgqjle.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-heartGraph-mtkymjmw.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-oval-muy2mufb.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-pageDistance-mkjcrduz.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-pageHeart-mueznzu3.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-pageSpeed-rdm3rjm1.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-pageTime-ndndndbd.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-playScreen-qkq4rjbf.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-round-qzk2qtq5.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-sec-oeyyoui2.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-sign-mjjcmtcy.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-speedDataSample-mjfcmdcw.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-summary-qzewrjg1.png
+imported/20160530_Jogstation_statistic_ver2@2x/images/Layer-summaryOn-mzcwnzi0.png
+imported/20160530_Jogstation_statistic_ver2@2x/layers.json
+imported/20160530_Jogstation_statistic_ver2@2x/layers.json.js
+index.html
+modules/myModule.coffee
